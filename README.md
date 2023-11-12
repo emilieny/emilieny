@@ -7,5 +7,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilieny&hide_progress=true&theme=dracula)
-
-![Snake animation](https://github.com/emilieny/emilieny/blob/output/github-contribution-grid-snake.svg)
