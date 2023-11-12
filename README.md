@@ -6,10 +6,6 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilieny&hide_progress=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilieny&hide_progress=true)
-
-
-
-
-
+![Snake animation](https://github.com/emilieny/emilieny/blob/output/github-contribution-grid-snake.svg)
